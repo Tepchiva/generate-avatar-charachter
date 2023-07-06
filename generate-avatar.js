@@ -4,11 +4,11 @@ import fs from "fs";
 registerFont("fonts/Euclid Circular B SemiBold.ttf", {family: "Euclid SemiBold"})
 
 // dimensions for the image
-const width = 48;
-const height = 48;
+const width = 1000;
+const height = 1000;
 
 // font style
-const fontStyle = '15px "Euclid SemiBold"'
+const fontStyle = '500px "Euclid SemiBold"'
 const fontColor = "#FFFFFF";
 const bgColors = ['#6D5176','#8794BF','#E3A193','#D8BF86','#6ECCAF','#737B63','#334945','#375F48','#557153','#009EFF','#CB8F91','#7D5AA4','#4B79F3','#F8AB8E','#B7B4AA','#D5A956','#A5A582','#C6B870','#F88020','#E79B67','#F7931E','#FFA45C','#ECB65F','#00000029','#454EAB','#B27FA0','#674EB4','#6809EA','#2146C7','#DB528A','#38145E']
 
