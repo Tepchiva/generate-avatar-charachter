@@ -1,0 +1,12 @@
+{
+  "name": "generate-avatar",
+  "scripts": {
+    "generate": "node generate-avatar.js"
+  },
+  "dependencies": {
+    "canvas": "^2.6.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "type": "module",
+  "author": "Chiva Tep"
+}
