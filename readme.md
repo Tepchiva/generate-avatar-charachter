@@ -8,5 +8,5 @@ npm install
 npm run generate
 ```
 ### Note: 
-- In your machine host, must be installed font as used in source code
+- If run in window OS, In your machine host must be installed font as used in source code
 - After run success, all image are store in avatars directory
