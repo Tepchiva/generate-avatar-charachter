@@ -1,7 +1,8 @@
 {
   "name": "generate-avatar",
   "scripts": {
-    "generate": "node generate-avatar.js"
+    "generate": "node generate-avatar.js",
+    "generate-color": "node color-code-viewer.js"
   },
   "dependencies": {
     "canvas": "^2.6.0",
